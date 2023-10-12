@@ -703,15 +703,6 @@
             ]
         },
         {
-            "contentId": "SKY-F",
-            "name": "Sky Family",
-            "pictures": [
-                {
-                    "href": "http://live.tvspielfilm.de/static/images/channels/large/SKY-F.png"
-                }
-            ]
-        },
-        {
             "contentId": "SKY-CO",
             "name": "Sky Comedy",
             "pictures": [
